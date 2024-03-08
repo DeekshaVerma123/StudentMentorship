@@ -491,7 +491,7 @@ footer .footer-links{
 }
 .image-item:hover{
   transform: scale(1.5);
-    margin: 0 50px;
+  margin: 0 50px;
 }
 
 .container .slider-scrollbar {
